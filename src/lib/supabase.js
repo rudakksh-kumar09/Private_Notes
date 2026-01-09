@@ -1,8 +1,3 @@
-// ===========================================
-// SUPABASE CLIENT CONFIGURATION
-// ===========================================
-// This is the single source of truth for Supabase connection
-// Used across the entire application for auth and database operations
 
 import { createClient } from '@supabase/supabase-js';
 

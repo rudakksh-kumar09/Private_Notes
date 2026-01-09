@@ -1,7 +1,3 @@
-// ===========================================
-// DASHBOARD PAGE
-// ===========================================
-// Main page: displays all notes + create new note
 
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';

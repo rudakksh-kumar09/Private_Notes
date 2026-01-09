@@ -1,8 +1,3 @@
-// ===========================================
-// NOTE CARD COMPONENT
-// ===========================================
-// Displays a single note in card format
-// Used in the dashboard/notes list
 
 import { Link } from 'react-router-dom';
 

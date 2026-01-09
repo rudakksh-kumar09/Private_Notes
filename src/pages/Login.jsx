@@ -1,7 +1,4 @@
-// ===========================================
-// LOGIN PAGE
-// ===========================================
-// Email/Password login + Google OAuth
+
 
 import { useState, useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';

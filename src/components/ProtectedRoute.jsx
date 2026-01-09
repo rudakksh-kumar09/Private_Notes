@@ -1,8 +1,3 @@
-// ===========================================
-// PROTECTED ROUTE COMPONENT
-// ===========================================
-// Prevents unauthorized access to private pages
-// Redirects unauthenticated users to login
 
 import { Navigate } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';

@@ -1,7 +1,4 @@
-// ===========================================
-// NAVBAR COMPONENT
-// ===========================================
-// Simple navigation bar with logout functionality
+
 
 import { useAuth } from '../contexts/AuthContext';
 import { useNavigate } from 'react-router-dom';

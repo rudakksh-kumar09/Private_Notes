@@ -1,8 +1,3 @@
-// ===========================================
-// AUTHENTICATION CONTEXT
-// ===========================================
-// Manages user authentication state across the app
-// Provides login, signup, logout functions to all components
 
 import { createContext, useContext, useEffect, useState } from 'react';
 import { supabase } from '../lib/supabase';

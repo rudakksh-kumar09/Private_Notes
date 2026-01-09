@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Minimal, calm design system */
+
 :root {
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
 }

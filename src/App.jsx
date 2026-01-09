@@ -1,7 +1,3 @@
-// ===========================================
-// MAIN APP - ROUTING & AUTH PROVIDER
-// ===========================================
-// Sets up routing and wraps app with AuthProvider
 
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import { AuthProvider } from './contexts/AuthContext';

@@ -1,7 +1,4 @@
-// ===========================================
-// VIEW/EDIT NOTE PAGE
-// ===========================================
-// View single note with edit capability
+
 
 import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
